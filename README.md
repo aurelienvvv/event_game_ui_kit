@@ -1,4 +1,4 @@
-![enter image description here](https://media.giphy.com/media/5fD5MGQRup4Pu/giphy.gif)
+![enter image description here](https://media.giphy.com/media/5fD5MGQRup4Pu/giphy.gif) :v:
 
 # EventGameProject
 
