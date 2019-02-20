@@ -2,6 +2,10 @@
 
 # EventGameProject :v:
 
+## Lien en production :
+
+http://aurelienv.fr/event-game/
+
 ## Toute la partie visuelle est dans : 
 
 `index.html`
